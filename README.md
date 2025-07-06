@@ -1,2 +1,2 @@
 # git
-#<p> just learning git hub </p>
+<p> just learning git hub </p>
