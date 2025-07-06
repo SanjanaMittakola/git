@@ -1,4 +1,2 @@
 # git
-learning 
-
-practing the git 
+<p> just learning git hub </p>
